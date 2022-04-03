@@ -10,7 +10,7 @@ weight: 6
 
 ## Catalog Description
 
-This course introduces Low-Tech Process-Based Restoration of Riverscapes implementation. Students construct low-tech structures like PALS (post-assisted log structures) and BDAs (beaver dam analogues) on student-designed restoration projects. Students explore consultation and permitting, and become proficient in construction safety and logistics.
+Adaptive Management is a means to add the scientific methods to management. This course introduces Adaptive Management of Low-Tech Process-Based Restoration of Riverscapes. Students will create an adaptive management plan for a low-tech  restoration project. Students become familiar with traditional Adaptive Management approaches, elements of adaptive management plans, and why they succeed or fail. We then will explore simpiler approaches that can be applied to Low-Tech Process-Based Restoration projects.
 
 |**Title**| Adaptive Management of Low-Tech Process-Based Restoration of Riverscapes|
 |**Semester(s) Traditionally Offered**| Spring|
