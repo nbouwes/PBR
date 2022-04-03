@@ -26,8 +26,8 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 
 ## Schedule
 ### Spring 2022 - Adaptive Management of LTPBR
-- Matriculated Students: ADAPT MGT LOWTEC PRCBAS REST - XXXX - WATS 5625 - 00X
-- Non-Matriculated Students: [XXXX - CEWA 5625 - LB5]()
+- Matriculated Students: ADAPT MGT LOWTEC PRCBAS REST - WATS 5625 - 001 XL
+- Non-Matriculated Students: [CEWA 5625 - LB5]()
 
 
 
@@ -40,17 +40,17 @@ This course introduces Low-Tech Process-Based Restoration of Riverscapes impleme
 
 Outline dates and assignments are all available on Canvas:
 <div align="center">
-<a class="hollow button" href="https://usu.instructure.com/courses/"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2022 Canvas</b><br> WATS 5625 - Adaptive Management of  LTPBR Course Assignments</a></div>
+<a class="hollow button" href="https://usu.instructure.com/courses/700765"><img src="{{ site.baseurl }}/assets/images/canvas_logo.png">  <b>Spring 2022 Canvas</b><br> WATS 5625 - Adaptive Management of  LTPBR Course Assignments</a></div>
 
-Students are expected to watch pre-recorded lectures and complete the reading assignments prior to our class meeting, where those topics will be discussed and exercises completed as a group. Both that session and the Saturday field trip are mandatory attendance. 
+Students are expected to watch live or pre-recorded lectures and complete the reading assignments prior to our class meeting, where those topics will be discussed and exercises completed as a group. We will create an adaptive management framework for the Birch Creek restoration project. 
 
-This class meets three times for a discussion session (remotely) :
+This class meets three times for a discussion session (live) :
 
 | Meeting Date | Modules     | Topics                                                       |
 | ------------ | ----------- | ------------------------------------------------------------ |
-| 4/5/2022    | TBD | |
-| 4/12/2022    | TBD          |                   |
-| 4/26/2022    | TBD | |
+| 4/5/2022    | Module 1 | Introduction and background | 
+| 4/12/2022    | Module 2          | Overview of adaptive management for LT-PBR restoration  |                 |
+| 4/26/2022    | Module 3 |Overview of Adaptive Management of LT-PBR projects |
 
 <!--- NICK TO POPULATE
 This course is based on [Module 5]({{ site.baseurl }}/workshops/2020/SGI/Modules/module5.html) of the self-paced materials. 
